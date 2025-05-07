@@ -21,17 +21,3 @@ This project is a terminal-based currency converter application built in Python.
 ## Testing
 
 Unit and integration testing are implemented using Python’s `unittest` framework 
-
----
-
-## Coverage
-
-Name                         Stmts   Miss  Cover   Missing
-----------------------------------------------------------
-converter/converter.py          15      0   100%
-converter/currency.py           7       0   100%
-converter/registry.py          22      2    91%    17-18
-main.py                        50     10    80%    34-38, 41-44
-----------------------------------------------------------
-TOTAL                          94     12    87%
-
